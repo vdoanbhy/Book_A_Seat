@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Mvc;
 
-namespace EFSecurityShell
+namespace Book_A_Seat
 {
     public class FilterConfig
     {

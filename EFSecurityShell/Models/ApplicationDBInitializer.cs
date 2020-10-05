@@ -10,9 +10,9 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
-using EFSecurityShell.Models;
+using Book_A_Seat.Models;
 
-namespace EFSecurityShell.Models
+namespace Book_A_Seat.Models
 {
     public class ApplicationDbInitializer : DropCreateDatabaseIfModelChanges<ApplicationDbContext>
     {

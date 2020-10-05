@@ -5,9 +5,9 @@ using Microsoft.Owin;
 using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
-using EFSecurityShell.Models;
+using Book_A_Seat.Models;
 
-namespace EFSecurityShell
+namespace Book_A_Seat
 {
     public partial class Startup
     {

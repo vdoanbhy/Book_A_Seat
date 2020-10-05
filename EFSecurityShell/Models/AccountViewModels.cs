@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace EFSecurityShell.Models
+namespace Book_A_Seat.Models
 {
     public class ExternalLoginConfirmationViewModel
     {

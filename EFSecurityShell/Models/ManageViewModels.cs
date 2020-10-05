@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 using Microsoft.AspNet.Identity;
 using Microsoft.Owin.Security;
 
-namespace EFSecurityShell.Models
+namespace Book_A_Seat.Models
 {
     public class IndexViewModel
     {

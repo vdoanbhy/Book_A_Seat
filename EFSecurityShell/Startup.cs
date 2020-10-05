@@ -1,8 +1,8 @@
 ﻿using Microsoft.Owin;
 using Owin;
 
-[assembly: OwinStartupAttribute(typeof(EFSecurityShell.Startup))]
-namespace EFSecurityShell
+[assembly: OwinStartupAttribute(typeof(Book_A_Seat.Startup))]
+namespace Book_A_Seat
 {
     public partial class Startup
     {

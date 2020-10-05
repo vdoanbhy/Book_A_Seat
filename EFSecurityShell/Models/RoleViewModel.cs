@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
-namespace EFSecurityShell.Models
+namespace Book_A_Seat.Models
 {
     public class RoleViewModel
     {

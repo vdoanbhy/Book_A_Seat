@@ -8,9 +8,9 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
-using EFSecurityShell.Models;
+using Book_A_Seat.Models;
 
-namespace EFSecurityShell.Controllers
+namespace Book_A_Seat.Controllers
 {
     [Authorize]
     public class AccountController : Controller

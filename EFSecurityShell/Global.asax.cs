@@ -6,7 +6,7 @@ using System.Web.Mvc;
 using System.Web.Optimization;
 using System.Web.Routing;
 
-namespace EFSecurityShell
+namespace Book_A_Seat
 {
     public class MvcApplication : System.Web.HttpApplication
     {

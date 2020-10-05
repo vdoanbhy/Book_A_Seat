@@ -5,7 +5,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace EFSecurityShell.Models
+namespace Book_A_Seat.Models
 {
     public class EditUserViewModel
     {

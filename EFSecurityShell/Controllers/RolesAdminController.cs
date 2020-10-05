@@ -6,11 +6,11 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity.Owin;
 using System.Threading.Tasks;
 using System.Net;
-using EFSecurityShell.Models;
+using Book_A_Seat.Models;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity;
 
-namespace EFSecurityShell.Controllers
+namespace Book_A_Seat.Controllers
 {
     
     public class RolesAdminController : Controller

@@ -10,9 +10,9 @@ using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin;
 using Microsoft.Owin.Security;
-using EFSecurityShell.Models;
+using Book_A_Seat.Models;
 
-namespace EFSecurityShell
+namespace Book_A_Seat
 {
     public class EmailService : IIdentityMessageService
     {

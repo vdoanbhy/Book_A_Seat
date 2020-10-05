@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace EFSecurityShell.Controllers
+namespace Book_A_Seat.Controllers
 {
     public class AdminController : Controller
     {
