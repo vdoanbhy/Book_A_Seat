@@ -34,5 +34,11 @@ namespace Book_A_Seat.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<Book_A_Seat.Models.Flight> Flights { get; set; }
+
+        public System.Data.Entity.DbSet<Book_A_Seat.Models.Customer> Customers { get; set; }
+
+        public System.Data.Entity.DbSet<Book_A_Seat.Models.Booking> Bookings { get; set; }
     }
 }
