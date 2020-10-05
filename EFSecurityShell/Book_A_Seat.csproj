@@ -191,7 +191,10 @@
     </Compile>
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\ApplicationDBInitializer.cs" />
+    <Compile Include="Models\Booking.cs" />
+    <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\EditUserViewModel.cs" />
+    <Compile Include="Models\Flight.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Models\RoleViewModel.cs" />
